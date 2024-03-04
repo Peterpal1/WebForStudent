@@ -88,7 +88,7 @@ header nav:hover > a:not(:hover) {
     position: relative;
     z-index: 100;
     border-radius: 50%;
-    align-items: center;
+    align-items: right;
 
 }
 span{
